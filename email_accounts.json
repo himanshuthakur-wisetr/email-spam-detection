@@ -1,0 +1,46 @@
+[
+    {
+        "email": "avirsingh52@gmail.com",
+        "password": "otty rprh lcct cajx",
+        "imap_host": "imap.gmail.com",
+        "imap_port": 993,
+        "encryption": "ssl",
+        "notification_email": "admin@example.com",
+        "webhook_url": "https://himtha1.funnelkithub.com//spam-alerts",
+        "enabled": true,
+        "description": "Gmail account - Enable 2FA and use App Password"
+    },
+    {
+        "email": "your-email@outlook.com",
+        "password": "your-password",
+        "imap_host": "outlook.office365.com",
+        "imap_port": 993,
+        "encryption": "ssl",
+        "notification_email": "admin@example.com",
+        "webhook_url": null,
+        "enabled": false,
+        "description": "Outlook account"
+    },
+    {
+        "email": "your-email@yahoo.com",
+        "password": "your-app-password",
+        "imap_host": "imap.mail.yahoo.com",
+        "imap_port": 993,
+        "encryption": "ssl",
+        "notification_email": "admin@example.com",
+        "webhook_url": null,
+        "enabled": false,
+        "description": "Yahoo account - Enable 2FA and use App Password"
+    },
+    {
+        "email": "your-email@yourdomain.com",
+        "password": "your-password",
+        "imap_host": "mail.yourdomain.com",
+        "imap_port": 993,
+        "encryption": "ssl",
+        "notification_email": "admin@example.com",
+        "webhook_url": null,
+        "enabled": false,
+        "description": "Custom domain email account"
+    }
+]
